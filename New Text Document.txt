@@ -1,0 +1,1 @@
+Hello! I have made a protected branch in the remote repository and I am here to check.
